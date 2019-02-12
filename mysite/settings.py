@@ -25,7 +25,7 @@ SECRET_KEY = '8um3fqla#_+hshb%@l57qx-wb7mr(%vmt3b=&pb6r3vi==x%0b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://floating-springs-56782.herokuapp.com/']
+ALLOWED_HOSTS = ['floating-springs-56782.herokuapp.com']
 
 
 # Application definition
